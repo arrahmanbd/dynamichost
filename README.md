@@ -28,13 +28,16 @@ The UI is designed for demonstration purposes and shows how expandable menus and
 
 ---
 
+
 ### Screenshots
 
 - **Login Page**
-![Login Page](https://github.com/arrahmanbd/dynamichost/raw/main/screenshots/login.png)  
-- **Dashboard Page**
-![Dashboard](https://github.com/arrahmanbd/dynamichost/raw/main/screenshots/dashboard.png)  
+![Login Page](https://raw.githubusercontent.com/arrahmanbd/dynamichost/master/screenshots/login.png)  
 
+
+- **Dashboard Page**
+
+![Dashboard](https://raw.githubusercontent.com/arrahmanbd/dynamichost/master/screenshots/dashboard.png)  
 ---
 
 ### Notes
@@ -46,8 +49,4 @@ The UI is designed for demonstration purposes and shows how expandable menus and
 
 ### How to Run
 1. Clone the repository.
-2. Or download Release : [Download and test APK](https://flutter.dev/docs/get-started/install)
-3. Run:
-```bash
-flutter pub get
-flutter run
+2. Or download Release : [Download and test APK](https://github.com/arrahmanbd/dynamichost/releases/tag/release)
