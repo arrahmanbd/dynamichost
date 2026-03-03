@@ -38,12 +38,7 @@ The UI is designed for demonstration purposes and shows how expandable menus and
 - **Dashboard Page**
 
 ![Dashboard](https://raw.githubusercontent.com/arrahmanbd/dynamichost/master/screenshots/dashboard.png)  
----
 
-### Notes
-- The expandable menu in the dashboard **does not exactly replicate Bkash** UI but mimics the functionality using an animated toggle.
-- Designed to be **reusable and easy to customize**.
-- Built using **Flutter**, can be easily integrated with Riverpod, Hooks, or any state management solution.
 
 ---
 
